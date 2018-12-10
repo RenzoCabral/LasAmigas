@@ -1,0 +1,53 @@
+body{
+  background-color:  #fff;
+  margin: 0;
+  color: #4ab19a;
+  text-align: center;
+  font-family: "Montserrat", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+
+h1{
+  color: #1fffff;
+  font-family: "Montserrat",sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 20px;
+
+}
+
+h2{
+  color: #66BFBF;
+}
+
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-color: #e4e4e4;
+  border-width: 8px;
+  width: 7%;
+  margin-top:  100px ;
+  margin-bottom: 100px;
+
+}
+
+p{
+  color:#ebebe3;
+}
+
+.slide{
+-webkit-filter: brightness(55%);
+filter: brightness(85%);
+}
+
+.carousel-inner{
+  margin-bottom:  70px;
+}
+
+.rounded-circle{
+  margin-bottom:  50px;
+}
+
+.container{
+  
+
+}
